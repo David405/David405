@@ -11,7 +11,7 @@ and contributing to complex open-source projects with a focus on decentralized f
 
 ### 🧑‍💻 **Full Stack Development**  
 - **Frontend**: JavaScript, TypeScript, React, Next.js
-- **Backend**: Node.js, Express.js, Golang, Rust  
+- **Backend**: Node.js, Golang, Rust  
 - **APIs**: RESTful, GraphQL
 - **Version Control**: Git, GitHub, GitLab
 
@@ -19,8 +19,9 @@ and contributing to complex open-source projects with a focus on decentralized f
 - **Smart Contracts**: Solidity, Vyper, Rust  
 - **Blockchain Protocols**: EVM, Algorand, Polkadot, Cosmos, RChain
 - **Technologies**: Web3.js, Ethers.js, Truffle, Hardhat, Foundry, IPFS, Chainlink
--**Key Concepts**:  
+- **Key Concepts**:  
   - **Account and Chain Abstraction**
+  - **AI Agents**
   - **Zero-Knowledge Proofs (ZKPs)**
   - **Decentralized Finance (DeFi)**
   - **Non-Fungible Tokens (NFTs)**
