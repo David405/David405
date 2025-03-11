@@ -1,6 +1,6 @@
 ## Hi 👋, I'm David Asamonye
 
-Seasoned Software Engineer with 5 years of extensive experience in blockchain development and backend engineering. Expertise in Rust, Solidity,
+Seasoned Software Engineer with 6 years of extensive experience in blockchain development and backend engineering. Expertise in Rust, Solidity,
 Golang, JavaScript, and TypeScript. Proven ability to design, develop, and deploy secure, scalable blockchain-based applications. Adept at leading
 and contributing to complex open-source projects with a focus on decentralized finance (DeFi) and advanced blockchain technologies.
 
