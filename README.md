@@ -5,7 +5,7 @@ Golang, JavaScript, and TypeScript. Proven ability to design, develop, and deplo
 and contributing to complex open-source projects with a focus on decentralized finance (DeFi) and advanced blockchain technologies.
 
 - 🔭  Currently exploring **Account and Chain Abstraction alongside AI Agents**, as I believe these technologies will be pivotal in scaling blockchain adoption to a billion users by simplifying cross-chain interactions and enhancing user experiences through intelligent automation.
-- 👯 Huge fan of community building, catch me on [Medium](https://medium.com/@davidasamonye) and [LinkedIn](https://www.linkedin.com/in/davidasamonye/)
+- 👯 Huge fan of community building, catch me on [Medium](https://medium.com/@davidasamonye), [Twitter](https://x.com/david_asamonye) and [LinkedIn](https://www.linkedin.com/in/davidasamonye/)
 
 ## 🚀 My Skill Set
 
