@@ -46,7 +46,7 @@ and contributing to complex open-source projects with a focus on decentralized f
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/davidasamonye/)
 - 📧 Email: davidasamonye@gmail.com
-- 🐦 [Twitter](https://twitter.com/OxDavid405)
+- 🐦 [Twitter](https://twitter.com/@david_asamonye)
 - ✍️ [Medium](https://medium.com/@davidasamonye)
 <!--
 
