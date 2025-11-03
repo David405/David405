@@ -1,7 +1,5 @@
-**Hi, I’m David** 👋  
 
 I architect **secure blockchain systems** by day and **hunt DeFi exploits** by night. Currently:  
-- 🔐 Leading development at [@Bloom](https://github.com/bloomwalletio) (gasless SocialFi)  
 - 🕵️‍♂️ Auditing African DeFi protocols (50+ vulnerabilities found)  
 - 🧠 Researching: Chain Abstraction, ZK Social Graphs, AI Agents
 
