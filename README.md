@@ -2,7 +2,7 @@
 
 Software and Protocol Engineer focused on blockchain infrastructure and distributed systems.
 
-I build production-grade protocol and backend systems, with an emphasis on scalability, reliability, and security. My work spans EVM-based infrastructure, account abstraction, smart contract security, and data-intensive backend services.
+I build production-grade protocol and backend systems, with an emphasis on scalability, reliability, and security. My work spans EVM-based infrastructure,smart contract security, and data-intensive backend services.
 
 ### Focus areas
 - Blockchain and protocol infrastructure  
