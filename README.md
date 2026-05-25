@@ -1,6 +1,6 @@
 Senior Blockchain Infrastructure Engineer. 8 years building across smart contract protocol engineering, blockchain infrastructure, and distributed backend systems. I build across all three layers of the stack.
 
-Co-founder of [AfroPanda Esports](https://afropandaesports.com), leading engineering including PandaPay.
+Building [AfroPanda Esports](https://afropandaesports.com), leading engineering @ [PandaPay Africa](https://pandapay.africa/).
 
 ---
 
