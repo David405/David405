@@ -1,19 +1,22 @@
 Senior Blockchain Infrastructure Engineer. 8 years building across smart contract protocol engineering, blockchain infrastructure, and distributed backend systems. I build across all three layers of the stack.
 
+I build systems that stay correct through retries, inconsistent providers, and partial failure.
+
 Building [AfroPanda Esports](https://afropandaesports.com), leading engineering @ [PandaPay Africa](https://pandapay.africa/).
 
 ---
 
 ### A few things I've shipped
 
-- Architected Baki Exchange at [Canza Finance](https://canza.finance) — Solidity vaults, Pyth oracle integrations, liquidation mechanics.
+- Owned the intents-based cross-swap backend at [TAO.com](https://tao.com) — solver integration, fee calculation, pricing, and settlement flows across EVM networks and Bittensor.
 
-- Built the cross-chain transaction parsing engine at [Bloom](https://bloom.social) — protocol adapter registry handling Relay and MetaMask bridge flows where standard indexers fail.
+- Designed a separate Bittensor Order Service and Matcher at TAO.com — signed order registration, idempotent requests, and execution isolated from the public API.
 
-- Built production keeper infrastructure at [0xMarkets](https://0xmarkets.io) — atomic scan→verify→execute→confirm pipelines with PostgreSQL-backed audit trails.
+- Designed the backend infrastructure at [Bloom](https://bloom.social) — token management, portfolio aggregation, real-time notifications, and cross-chain transaction parsing where external indexers fall short.
 
-- Reduced API response latency 60–85% via Redis-backed caching across background workers and job pipelines at Bloom.
+- Architected Baki Exchange at [Canza Finance](https://canza.finance) — Solidity collateral vaults, Pyth oracle integrations, liquidations, and swap execution.
 
+- Built Bittensor liquidity vaults and production keeper infrastructure through [General Tensor](https://generaltensor.io) — ERC-4626 vaults, EIP-712 lock controls, and scan → verify → execute → confirm pipelines with PostgreSQL audit trails.
 ---
 
 ### What I'm building
